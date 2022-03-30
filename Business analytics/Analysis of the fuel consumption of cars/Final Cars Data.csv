@@ -1,0 +1,95 @@
+Name,Model,Type,Price,Engine Type and Required Fuel,Cylinders Type,Cylinders,Engine Liters,Displacement (cu. In.),Fuel system,Horsepower,RPM,Combined Mpg,Weight
+Mazda CX-30,CX-30 Turbo Premium Package AWD,SUV,33400,Intercooled Turbo Regular Unleaded,I-4,4,2.5,152,Gasoline Direct Injection,227,5000,25,3505
+Hyundai Kona,Kona Ultimate DCT FWD,SUV,30490,Intercooled Turbo Regular Unleaded,I-4,4,1.6,97,Gasoline Direct Injection,175,5500,30,3062
+Kia Soul,Soul GT-Line IVT,SUV,22810,Regular Unleaded,I-4,4,2,122,MPI,147,6200,30,2844
+Volvo XC40,XC40 T5 AWD Momentum,SUV,36695,Intercooled Turbo Regular Unleaded,I-4,4,2,120,Gasoline Direct Injection,248,5500,25,3729
+BMW X1,X1 xDrive28i Sports Activity Vehicle,SUV,38395,Intercooled Turbo Premium Unleaded,I-4,4,2,122,Gasoline Direct Injection,228,5000,26,3713
+Mazda CX-5,CX-5 Sport AWD,SUV,27770,Regular Unleaded,I-4,4,2.5,152,Gasoline Direct Injection,187,6000,26,3691
+Volkswagen Tiguan,Tiguan 2.0T SEL FWD,SUV,33740,Intercooled Turbo Regular Unleaded,I-4,4,2,121,Gasoline Direct Injection,184,4400,25,3735
+Honda CR-V,CR-V LX AWD,SUV,27970,Intercooled Turbo Regular Unleaded,I-4,4,1.5,91,Gasoline Direct Injection,190,5600,29,3455
+Toyota RAV4,RAV4 Adventure AWD (Natl),SUV,34430,Regular Unleaded,I-4,4,2.5,152,Port/Direct Injection,203,6600,28,3655
+Porsche Macan,Macan GTS AWD,SUV,73450,Twin Turbo Premium Unleaded,V-6,6,2.9,177,Gasoline Direct Injection,434,5700,19,4370
+Porsche Macan Turbo,Macan Turbo AWD,SUV,85950,Twin Turbo Premium Unleaded,V-6,6,2.9,177,Gasoline Direct Injection,375,5200,19,4430
+Mercedes-AMG GLC43/GLC63,AMG GLC 43 AMG GLC 43 4MATIC SUV,SUV,60495,Twin Turbo Premium Unleaded,V-6,6,3,183,Gasoline Direct Injection,385,5500,21,4173
+BMW X3,X3 M40i Sports Activity Vehicle,SUV,57595,Intercooled Turbo Premium Unleaded,I-6,6,3,183,Gasoline Direct Injection,382,5800,23,4317
+Kia Telluride,Telluride EX FWD,SUV,38560,Regular Unleaded,V-6,6,3.8,231,Gasoline Direct Injection,291,6000,23,4112
+Hyundai Palisade,Palisade Calligraphy AWD,SUV,48925,Regular Unleaded,V-6,6,3.8,231,Gasoline Direct Injection,291,6000,21,4387
+Mazda CX-9,CX-9 Touring AWD,SUV,38750,Intercooled Turbo Regular Unleaded,I-4,4,2.5,152,Gasoline Direct Injection,227,5000,23,4409
+Honda Passport,Passport Touring FWD,SUV,40400,Regular Unleaded,V-6,6,3.5,212,Gasoline Direct Injection,280,6000,22,4048
+Volkswagen Atlas,Atlas 3.6L V6 SEL R-Line 4MOTION,SUV,47115,Regular Unleaded,V-6,6,3.6,220,Gasoline Direct Injection,276,6200,19,4502
+Jeep Wrangler,Wrangler 80th Anniversary 4x4,SUV,37505,Intercooled Turbo Premium Unleaded,I-4,4,2,122,Gasoline Direct Injection,270,5250,23,4160
+Porsche Cayenne,Cayenne AWD,SUV,68850,Intercooled Turbo Premium Unleaded,V-6,6,3,183,Gasoline Direct Injection,335,5300,20,6239
+BMW X5,X5 xDrive40i Sports Activity Vehicle,SUV,62695,Intercooled Turbo Gas/Electric,I-6,6,3,183,Gasoline Direct Injection,335,5500,23,4863
+BMW X7,X7 M50i Sports Activity Vehicle,SUV,100795,Twin Turbo Premium Unleaded,V-8,8,4.4,268,Gasoline Direct Injection,523,5500,17,7319
+Chevrolet Suburban,Suburban 4WD Premier,SUV,69795,Gas/Ethanol,V-8,8,5.3,,Direct Injection,355,5600,16,6121
+Nissan Armada,Armada 4x4 SL,SUV,56695,Regular Unleaded,V-8,8,5.6,339,Gasoline Direct Injection,390,5800,15,5672
+Toyota Yaris,Yaris Sedan XLE Auto (Natl),Sedan,19745,Regular Unleaded,I-4,4,1.5,91,Gasoline Direct Injection,106,6000,35,2482
+Honda Civic,Civic LX CVT Sedan,Sedan,22005,Regular Unleaded,I-4,4,2,122,Sequential MPI,158,6500,33,2771
+Honda Civic Si,Civic Si Manual Sedan w/Summer Tires,Sedan,26355,Intercooled Turbo Premium Unleaded,I-4,4,1.5,91,Gasoline Direct Injection,205,5700,30,2906
+Mazda 3,Mazda3 Sedan Premium Package AWD,Sedan,28845,Regular Unleaded,I-4,4,2.5,152,Gasoline Direct Injection,186,6000,28,3248
+Volkswagen Jetta GLI,Jetta GLI S Manual,Sedan,27340,Intercooled Turbo Premium Unleaded,I-4,4,2,121,Gasoline Direct Injection,228,5000,28,3228
+Honda Accord,Accord LX 1.5T CVT Sedan,Sedan,25725,Intercooled Turbo Regular Unleaded,I-4,4,1.5,91,Gasoline Direct Injection,192,5500,33,3150
+Hyundai Sonata,Sonata N Line 2.5T,Sedan,34195,Intercooled Turbo Regular Unleaded,I-4,4,2.5,152,Port/Direct Injection,290,5800,27,3552
+Mazda 6,Mazda6 Sport Auto,Sedan,25270,Regular Unleaded,I-4,4,2.5,152,Gasoline Direct Injection,187,6000,29,3437
+Toyota Camry,Camry SE Auto (Natl),Sedan,27480,Regular Unleaded,I-4,4,2.5,152,Port/Direct Injection,203,6600,32,3340
+BMW 3-Series,330i Sedan,Sedan,42245,Intercooled Turbo Premium Unleaded,I-4,4,2,122,Gasoline Direct Injection,255,5000,30,3582
+Genesis G70,G70 3.3T RWD,Sedan,47225,Twin Turbo Premium Unleaded,V-6,6,3.3,204,Gasoline Direct Injection,365,6000,20,3774
+Alfa Romeo Giulia,Giulia AWD,Sedan,42745,Intercooled Turbo Premium Unleaded,I-4,4,2,122,Gasoline Direct Injection,280,5200,26,3632
+Mercedes-Benz C-Class,C 300 C 300 Cabriolet,Sedan,55750,Intercooled Turbo Premium Unleaded,I-4,4,2,121,Gasoline Direct Injection,255,5800,26,3869
+Mercedes-AMG C63,AMG C 63 AMG C 63 Sedan,Sedan,69650,Twin Turbo Premium Unleaded,V-8,8,4,243,Gasoline Direct Injection,469,5500,21,3874
+Mercedes-AMG C43,AMG C 43 AMG C 43 4MATIC Sedan,Sedan,57550,Twin Turbo Premium Unleaded,V-6,6,3,183,Gasoline Direct Injection,385,6100,21,3825
+Alfa Romeo Giulia Quadrifoglio,Giulia Quadrifoglio RWD,Sedan,76345,Twin Turbo Premium Unleaded,V-6,6,2.9,176,Gasoline Direct Injection,505,6500,20,3806
+Mercedes-Benz E-Class,E 350 E 350 4MATIC Sedan,Sedan,57545,Intercooled Turbo Premium Unleaded,I-4,4,2,121,Gasoline Direct Injection,255,5800,26,3935
+Mercedes-AMG E53,AMG E 53 AMG E 53 4MATIC+ Sedan,Sedan,74795,Intercooled Turbo Gas/Electric,I-6,6,3,183,Gasoline Direct Injection,429,6100,24,4341
+BMW M5,M Models M5 Sedan,Sedan,105495,Twin Turbo Premium Unleaded,V-8,8,4.4,268,Gasoline Direct Injection,600,6000,17,4345
+Kia Cadenza,Cadenza Technology Sedan,Sedan,38885,Regular Unleaded,V-6,6,3.3,204,Gasoline Direct Injection,290,6400,23,3799
+Mercedes-Benz S-Class,S 560e S 560e Sedan,Sedan,110745,Twin Turbo Gas/Electric,V-6,6,3,183,Gasoline Direct Injection,469,5500,23,4885
+Mercedes-AMG S63/S65,AMG S 65 AMG S 65 Sedan,Sedan,236595,Twin Turbo Premium Unleaded,V-12,12,6,365,Sequential MPI,621,4800,16,4960
+Mazda MX-5 Miata,MX-5 Miata Sport Auto,Sport,28875,Premium Unleaded,I-4,4,2,122,Gasoline Direct Injection,181,7000,30,2403
+Toyota Supra,GR Supra 3.0 Auto (Natl),Sport,50985,Intercooled Turbo Premium Unleaded,I-6,6,3,183,Gasoline Direct Injection,335,5000,26,3397
+Chevrolet Corvette,Corvette Stingray Convertible 2LT,Sport,74295,Gas,V-8,8,6.2,,Direct Injection,490,6450,19,3467
+Porsche 718 Cayman,718 Cayman Coupe,Sport,61250,Intercooled Turbo Premium Unleaded,H-4,4,2,121,Gasoline Direct Injection,300,6500,22,3034
+Porsche 718 Boxster,718 Boxster GTS 4.0 Roadster,Sport,90250,Premium Unleaded,H-6,6,4,244,Gasoline Direct Injection,394,7000,19,3156
+BMW M2,M Models M2 Competition Coupe,Sport,59895,Twin Turbo Premium Unleaded,I-6,6,3,182,Gasoline Direct Injection,405,5230,20,3600
+BMW Z4,Z4 sDriveM40i Roadster,Sport,64695,Intercooled Turbo Premium Unleaded,I-6,6,3,183,Gasoline Direct Injection,382,5000,25,3457
+Ford Mustang Shelby GT350,Mustang Shelby GT350 Fastback,Sport,61635,Premium Unleaded,V-8,8,5.2,315,Sequential MPI,526,7500,16,3760
+Porsche 911,911 Carrera 4S Coupe,Sport,121950,Twin Turbo Premium Unleaded,H-6,6,3,182,Gasoline Direct Injection,443,6500,20,3487
+Mercedes-AMG GT,AMG GT AMG GT Coupe,Sport,119595,Twin Turbo Premium Unleaded,V-8,8,4,243,Gasoline Direct Injection,523,5500,17,3666
+McLaren 600LT,600LT Spider,Sport,259000,Twin Turbo Premium Unleaded,V-8,8,3.8,232,Sequential MPI,592,7500,18,3099
+Honda Ridgeline,Ridgeline RTL 2WD,Pickup Truck,37790,Regular Unleaded,V-6,6,3.5,212,Gasoline Direct Injection,280,6000,22,4240
+Chevrolet Colorado,Colorado Crew Cab Long Box 2-Wheel Drive LT,Pickup Truck,33095,Gas,V-6,6,3.6,222,Direct Injection,308,6800,20,4102
+GMC Canyon,Canyon Extended Cab Long Box 4-Wheel Drive,Pickup Truck,32295,Gas,V-6,6,3.6,222,Direct Injection,308,6800,19,3911
+Jeep Gladiator,Gladiator 80th Anniversary 4x4,Pickup Truck,43255,Regular Unleaded,V-6,6,3.6,220,Sequential MPI,285,6400,19,4650
+Ford Ranger,Ranger XLT 4WD SuperCab 6' Box,Pickup Truck,33765,Intercooled Turbo Regular Unleaded,I-4,4,2.3,140,Gasoline Direct Injection,270,5500,22,4145
+Ram 1500,"1500 HFE 4x2 Quad Cab 6'4"" Box",Pickup Truck,35890,Gas/Electric,V-6,6,3.6,220,Sequential MPI,305,6400,22,4798
+Ford F-150,F-150 Platinum 4WD SuperCrew 6.5' Box,Pickup Truck,60940,Regular Unleaded,V-8,8,5,302,Port/Direct Injection,395,5750,18,4925
+Ford F-150 Raptor,F-150 Raptor 4WD SuperCab 5.5' Box,Pickup Truck,55150,Twin Turbo Regular Unleaded,V-6,6,3.5,213,Port/Direct Injection,450,5000,16,4529
+Ford Super Duty,Super Duty F-250 Pickup King Ranch 2WD Crew Cab 6.75' Box,Pickup Truck,61290,Regular Unleaded,V-8,8,6.2,379,Sequential MPI,385,5750,15,6695
+Ram HD,"2500 Lone Star 4x4 Mega Cab 6'4"" Box",Pickup Truck,48570,Premium Unleaded,V-8,8,6.4,392,Sequential MPI,410,5600,15,7218
+Volkswagen Golf,Golf 1.4T TSI Manual,Hatchback,24190,Intercooled Turbo Regular Unleaded,I-4,4,1.4,85,Gasoline Direct Injection,147,5000,33,2945
+Volkswagen Golf GTI,Golf GTI 2.0T S DSG,Hatchback,30315,Intercooled Turbo Premium Unleaded,I-4,4,2,121,Gasoline Direct Injection,228,4700,27,3128
+Honda Civic Type R,Civic Limited Edition Manual Type R,Hatchback,44950,Intercooled Turbo Premium Unleaded,I-4,4,2,122,Gasoline Direct Injection,306,6500,25,3075
+Hyundai Veloster N,Veloster N Manual,Hatchback,28595,Intercooled Turbo Premium Unleaded,I-4,4,2,122,Gasoline Direct Injection,250,6000,25,3036
+Mazda 3,Mazda3 Sedan Select FWD,Hatchback,23645,Regular Unleaded,I-4,4,2.5,152,Gasoline Direct Injection,186,6000,30,3071
+Toyota Corolla,Corolla L CVT (Natl),Hatchback,21020,Regular Unleaded,I-4,4,1.8,110,Sequential MPI,139,6100,33,2910
+Kia Rio,Rio 5-Door S IVT,Hatchback,17955,Regular Unleaded,I-4,4,1.6,98,MPI,120,6300,36,2762
+Honda Fit,Fit LX CVT,Hatchback,17945,Regular Unleaded,I-4,4,1.5,91,Gasoline Direct Injection,128,6600,36,2568
+Mini Cooper,Hardtop 2 Door Cooper S FWD,Hatchback,26750,Intercooled Turbo Premium Unleaded,I-4,4,2,122,Gasoline Direct Injection,189,4400,26,2760
+Mercedes-Benz E-Class Wagon,E 450 E 450 4MATIC Wagon,Station Wagon,67095,Twin Turbo Premium Unleaded,V-6,6,3,183,Gasoline Direct Injection,362,5500,22,4299
+Mercedes-AMG E63 S Wagon,AMG E 63 AMG E 63 S 4MATIC+ Wagon,Station Wagon,112745,Twin Turbo Premium Unleaded,V-8,8,4,243,Gasoline Direct Injection,603,5750,19,4669
+Volvo V60 / V60 Cross Country,V60 T5 FWD Inscription,Station Wagon,47395,Intercooled Turbo Premium Unleaded,I-4,4,2,120,Gasoline Direct Injection,250,5500,27,3813
+Volvo V90,V90 T6 AWD R-Design,Station Wagon,58445,Turbo/Supercharger Premium Unleaded,I-4,4,2,120,Gasoline Direct Injection,316,5700,25,4127
+Volvo V90 Cross Country,V90 Cross Country T6 AWD,Station Wagon,55545,Turbo/Supercharger Premium Unleaded,I-4,4,2,120,Gasoline Direct Injection,316,5700,24,4370
+Audi A4 Allroad,A4 allroad Premium 2.0 TFSI quattro,Station Wagon,45595,Intercooled Turbo Premium Unleaded,I-4,4,2,121,Gasoline Direct Injection,248,5000,26,3847
+Porsche Panamera Sport Turismo,Panamera 4 Sport Turismo AWD,Station Wagon,99350,Intercooled Turbo Premium Unleaded,V-6,6,3,183,Gasoline Direct Injection,330,5400,22,4348
+Jaguar XF Sportbrake,XF Sportbrake Prestige AWD,Station Wagon,66300,Intercooled Turbo Premium Unleaded,I-4,4,2,122,Gasoline Direct Injection,296,5500,24,3885
+Subaru Outback,Outback Touring XT CVT,Station Wagon,40995,Intercooled Turbo Regular Unleaded,H-4,4,2.4,146,Gasoline Direct Injection,260,5600,26,3937
+Buick Regal TourX,Regal TourX Preferred AWD,Station Wagon,33895,Turbocharged Gas,I-4,4,2,122,Direct Injection,250,5400,24,3783
+Mini Cooper S Clubman,Clubman Cooper ALL4,Station Wagon,27750,Intercooled Turbo Premium Unleaded,I-3,3,1.5,91,Gasoline Direct Injection,134,4400,26,3370
+BMW 2-Series,230i Coupe,Coupe,36895,Intercooled Turbo Premium Unleaded,I-4,4,2,122,Gasoline Direct Injection,248,5200,28,3386
+Ford Mustang,Mustang EcoBoost Premium Fastback,Coupe,33370,Intercooled Turbo Premium Unleaded,I-4,4,2.3,140,Gasoline Direct Injection,310,5500,24,3532
+Ford Mustang Shelby GT500,Mustang Shelby GT500 Fastback,Coupe,74095,Intercooled Supercharger Premium Unleaded,V-8,8,5.2,315,Sequential MPI,760,7300,14,4171
+Chevrolet Camaro,Camaro 2dr Coupe 1LS,Coupe,25995,Turbocharged Gas,I-4,4,2,122,Direct Injection,275,5600,23,3351
+Chevrolet Camaro ZL1,Camaro 2dr Coupe ZL1,Coupe,65695,Turbocharged Gas,V-8,8,6.2,376,Direct Injection,650,6400,16,3907
+Audi A5,A5 Coupe Premium 2.0 TFSI quattro,Coupe,43895,Intercooled Turbo Premium Unleaded,I-4,4,2,121,Gasoline Direct Injection,248,5000,27,3638
+BMW 8-Series,M850i xDrive Convertible,Coupe,122395,Twin Turbo Premium Unleaded,V-8,8,4.4,268,Gasoline Direct Injection,523,5500,20,4736
