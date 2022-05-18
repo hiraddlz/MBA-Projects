@@ -1,0 +1,1 @@
+This assignment contains three empirical questions. The first one is about the CAPM model and the issues associated with its estimation. Question two is a comparison between NAV and price data and an exploration of mutual fund managers’ investment skill. Question three is about the persistence of those skills.
