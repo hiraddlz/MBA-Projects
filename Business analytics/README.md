@@ -1,0 +1,1 @@
+Crawl caranddriver.com data. Investigating the effect of car specifications on their fuel consumption. (Many methods such as ANOVA, Linear regression, Logistic regression, and CART were implemented with R programming language)
