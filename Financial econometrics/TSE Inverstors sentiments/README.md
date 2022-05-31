@@ -1,0 +1,1 @@
+Measuring the effect of investors' sentiments on the return of Tehran Stock Exchange. Implementing "Bandopadhyaya, A., Jones, A. Measuring investor sentiment in equity markets. J Asset Manag 7, 208–215 (2006)" article on 398 different stocks in Tehran stock exchange with python and analyzing them.
